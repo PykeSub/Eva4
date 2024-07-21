@@ -8,8 +8,6 @@ export const initialStatePersona: Persona = {
     edad: 0,
     rut: "",
     condicionMedica: "",
-    tipoMembresia: "",
-    metodoPago: "",
     objetivoFitness: "",
     horarioPreferido: ""  
   }

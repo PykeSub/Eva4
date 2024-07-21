@@ -6,8 +6,6 @@ export interface Persona{
     edad: 0,
     rut: string,
     condicionMedica: string,
-    tipoMembresia: string,
-    metodoPago: string,
     objetivoFitness: string,
     horarioPreferido: string,
     key?: string
